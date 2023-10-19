@@ -3,6 +3,10 @@
     "app_texto_botao_sobre": "Contate o desenvolvedor",
     "app_link_sobre": "https://www.workana.com/freelancer/78cf241ce52e9e5d1dce63fc5642b0e5",
     "promo_ativa": true,
+
+    "app_credito_inicial": 500,
+    "app_custo_por_uso": 5,
+
     "titulo_promo": "Desconto Especial até 31/12!",
     "descritivo_promo": "Informe o código 'QUERO10' e economize 10% em sua próxima automação.",
     "imagem_promo": "promo.png",
