@@ -15,5 +15,6 @@
     "titulo_fim_credito": "Seus créditos acabaram!",
     "descritivo_fim_credito": "Não tem problema, recarregue agora para continuar.",
     "imagem_fim_credito": "credit_xl.png",
-    "texto_botao_fim_credito": "Recarregar Agora"
+    "texto_botao_fim_credito": "Recarregar Agora",
+    "link_fim_credito": "https://www.workana.com/freelancer/78cf241ce52e9e5d1dce63fc5642b0e5"
 }
