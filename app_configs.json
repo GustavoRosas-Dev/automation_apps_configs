@@ -10,5 +10,10 @@
     "titulo_promo": "Desconto Especial até 31/12!",
     "descritivo_promo": "Informe o código 'QUERO10' e economize 10% em sua próxima automação.",
     "imagem_promo": "promo.png",
-    "texto_botao_promo": "Quero Economizar Agora"
+    "texto_botao_promo": "Quero Economizar Agora",
+
+    "titulo_fim_credito": "Seus créditos acabaram!",
+    "descritivo_fim_credito": "Não tem problema, recarregue agora para continuar.",
+    "imagem_fim_credito": "credit_xl.png",
+    "texto_botao_fim_credito": "Recarregar Agora"
 }
