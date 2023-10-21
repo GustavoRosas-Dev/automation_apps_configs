@@ -6,7 +6,7 @@
     "app_credito_inicial": 100,
     "app_custo_por_uso": 20,
 
-    "promo_ativa": false,
+    "promo_ativa": true,
     "titulo_promo": "Desconto Especial até 31/12!",
     "descritivo_promo": "Informe o código 'QUERO10' e economize 10% em sua próxima automação.",
     "imagem_promo": "promo.png",
